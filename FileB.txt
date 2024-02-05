@@ -1,1 +1,2 @@
 This is FileB
+I have now made a change to the f
